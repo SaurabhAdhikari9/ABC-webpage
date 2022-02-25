@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    display: flex;
+    background: linear-gradient(to right, rgba(86,204,242,0.2), rgba(47,128,237,0.4));
+}
+.leftSide{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#secondH3{
+    margin-left: 100px;
+    color: crimson;
+}
+#thirdH3{
+    margin-left: 100px;
+    
+}
+#fourthH3{
+    margin-left: 100px;
+}
+.rightSide{
+    margin-top: 10px;
+}
+.slogan{
+    margin-top: -50px;
+    margin-left: 350px;
+    
+}
+#slo_third{
+    margin-left: 55px;
+}
+.rightSide{
+    margin-left: 100px;
+    width: 400px;
+    height: 500px;
+    opacity: 0.3;
+}
+.rightSide:hover{
+    opacity: 0.4;
+}

@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container22{
+    display: flex;
+}
+.left22{
+    width: 85%;
+    /* background-color: aquamarine; */
+}
+.right22{
+    width: 15%;
+    /* background-color:antiquewhite; */
+}
+.goto{
+    position: fixed;
+    margin-top: 200px;
+    /* margin-left: 400px; */
+}

@@ -1,0 +1,22 @@
+hr {
+    border-style: double;
+    color: black;
+    width: 90%;
+    margin-left: 100px;
+    border: 1px solid black;
+  }
+  footer img{
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+  }
+  .footer{
+    float: right;
+    margin-right: 80px;
+  }
+  .copyright{
+    margin-left: 50px;
+  }
+  .icon{
+    margin-bottom: 10px;
+  }

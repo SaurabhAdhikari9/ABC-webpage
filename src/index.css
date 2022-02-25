@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,500;1,600;1,700&family=Ubuntu:wght@400;500;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'ubuntu', sans-serif;
+}
+.title{
+  text-align: center;
+}
+.contact{
+  display: flex;
+}
+.decorateContact{
+  text-decoration: none;
+  color: crimson;
+}
+.Gender{
+  margin-top: 20px;
+  width: 50px;
+}
+
+.Button{
+  margin-top: 10px;
+  margin-left: 5px;
+  width: 70px
+}
+
+.firstRow, .secondRow, .thirdRow, .fourthRow, .fifthRow{
+  text-align: center;
+  margin-top: 10px;
+  
+}
+
+.subject{
+  width:  215px;
+}
+input[type = "text"]::placeholder{
+  text-align: center;
+}
+input[type = "email"]::placeholder{
+  text-align: center;
+}
+textarea::placeholder{
+  text-align: center;
+} 
+
+.column2{
+  margin: 10px 30px;
+}
+.suggestionComponent{
+  display:flex;
+}
+.Button{
+  border-style: outset;
+}
+.info{
+  margin-left: 50px;
+  width: 350px;
+  background-color: crimson;
+  color: white;
+  /* background: linear-gradient(to right, #bc4e9c, #f80759); */
+  /* background: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080); */
+  border-radius: 10%;
+}
+.info p{
+  margin-left: 20px;
+  padding: 20px;
+}
+.right{
+  margin-top: 50px;
+  margin-left: 230px;
+}
+/* .left{
+  width: 800px;
+  background-color: red;
+} */

@@ -1,0 +1,20 @@
+<form name="message" onsubmit="validatefrom()">
+<div>
+    <div>
+        <div className="fullname" >
+            <input type="text" name="Fullname" placeholder="Name" className="input"/>
+        </div>
+        <div className="email">
+            <input type="email" name="Email" placeholder="Email" className="input"/>
+        </div>
+    </div>
+    <input type="text" name="subject" placeholder="Subject" className="sub"/>
+
+        <p>
+            <input type="radio" name="gender" value="male" checked/> Male
+                <input type="radio" name="gender" value="female"/> Female
+        </p>
+                <br></br><textarea name="message" rows="10" cols="30" placeholder="Enter Message" className="msg"></textarea>
+                    <p><button type="submit" value="Send">submit </button></p>
+                </div>
+            </form>

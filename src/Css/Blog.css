@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.content{
+    margin-top: 50px;
+}
+.cards{
+    display: flex;
+}
+.subHead{
+    max-width: 70%;
+    text-align: center;
+    font-weight: bold;
+}
+.CBS, .mobileBanking, .atmBanking, .smsBanking{
+    margin-left: 20%;
+    text-align: center;
+    max-width: 40%;
+    /* columns: 500; */
+    /* grid-row: auto; */
+    margin-top: 20px;
+  
+}
+.subHead{
+    color: crimson;
+}
