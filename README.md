@@ -1,5 +1,8 @@
 React framework is used to create a demo web app. the demo webpage contains five different pages some of them are intently left blank. The web page is designed for the official web page for the financial corporation (cooperative organization), where the first page contains the name and motto of the organization. 
 ![image](https://user-images.githubusercontent.com/83704793/170629392-7f6e2739-3eda-4038-90e7-4eacb69cb95d.png)
+        fig: first page screenshot.
+
+The second page contains a brief description of the organization's features to their users, such as CBS, Mobile banking, ATM banking, and SMS banking. The pages were decorated by using CSS and Ant Design. There is a special function on this page that scroll up the page with a click, and on the right side, there is a location bar of the page which slows where are you on the page.
 
 
 
