@@ -4,6 +4,7 @@ React framework is used to create a demo web app. the demo webpage contains five
 
 The second page contains a brief description of the organization's features to their users, such as CBS, Mobile banking, ATM banking, and SMS banking. The pages were decorated by using CSS and Ant Design. There is a special function on this page that scroll up the page with a click, and on the right side, there is a location bar of the page which slows where are you on the page.
 ![image](https://user-images.githubusercontent.com/83704793/170631972-191341f3-545b-435f-a02e-1d17f5ebec09.png)
+![image](https://user-images.githubusercontent.com/83704793/170632445-0acf4d31-8cbd-4115-9fd2-612dd435ec14.png)
 
 
 
