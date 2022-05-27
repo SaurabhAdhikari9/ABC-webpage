@@ -1,3 +1,11 @@
+React framework is used to create a demo web app. the demo webpage contain five different pages some of them are intentaliy left blank. 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
