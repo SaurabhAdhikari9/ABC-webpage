@@ -1,4 +1,6 @@
 React framework is used to create a demo web app. the demo webpage contains five different pages some of them are intently left blank. The web page is designed for the official web page for the financial corporation (cooperative organization), where the first page contains the name and motto of the organization. 
+![image](https://user-images.githubusercontent.com/83704793/170629392-7f6e2739-3eda-4038-90e7-4eacb69cb95d.png)
+
 
 
 
